@@ -2,4 +2,4 @@ github push
 github clone
 github use dev
 
-change in the master
+change in the master and dev
