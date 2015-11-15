@@ -2,4 +2,4 @@ github push
 github clone
 github use dev
 
-in the dev
+in the d
