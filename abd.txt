@@ -2,4 +2,8 @@ github push
 github clone
 github use dev
 
+<<<<<<< HEAD
 both change in master and dev
+=======
+in the dev23
+>>>>>>> dev
