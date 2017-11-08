@@ -1,6 +1,6 @@
 # 中文锚点
 # kongge a
-# aaa(aaaaa)
+# aaa(bbb)c
 # anchorlink
 
 
